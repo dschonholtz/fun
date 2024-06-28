@@ -1,0 +1,3 @@
+selenium 
+pyinstaller 
+chromedriver-autoinstaller
